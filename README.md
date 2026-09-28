@@ -12,3 +12,16 @@ Hello, I am O. Bhavishya Lakshmi, a B.Tech student specializing in Artificial In
 * Git & GitHub
 * Communication
 * Teamwork
+## Projects
+
+### 2D Graphics Editor
+
+A menu-driven graphics editor developed using C.
+
+### Library Management System
+
+A system developed to manage library books and related information efficiently.
+
+### Personal Portfolio Website
+
+A responsive portfolio website developed using React.js to showcase my profile, skills, projects, and contact information.
